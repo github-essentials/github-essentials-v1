@@ -3,8 +3,8 @@ title: GitHub Essentials
 email: me@githubessentials.com
 description: > # this means to ignore newlines until "baseurl:"
   A book about GitHub basics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/github-essentials/" # the subpath of your site, e.g. /blog/
+url: "http://axilleas.me" # the base hostname & protocol for your site
 twitter_username: _axil
 github_username:  axilleas
 
