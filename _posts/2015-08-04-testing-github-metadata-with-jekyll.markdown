@@ -5,5 +5,5 @@ date:   2015-08-04 00:00:00
 categories: jekyll github
 ---
 
-The name of this project is {{ site.github.project_title }}, owned by
-**{{site.github.owner_name}}** and hosted at {{github.site.repository_url}}.
+The name of this project is {{ site.github.project_title }} and owned by
+{{site.github.owner_name}}.
