@@ -6,4 +6,4 @@ categories: jekyll github
 ---
 
 The name of this project is {{ site.github.project_title }}, owned by
-**{{site.github.owner_name}}** and hosted at <{{github.site.owner_url}}>.
+**{{site.github.owner_name}}** and hosted at {{github.site.owner_url}}.
