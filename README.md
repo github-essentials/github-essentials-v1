@@ -1,3 +1,3 @@
 # github-essentials
 
-GitHub for dummies.
+GitHub for dummies. Learn GitHub one step at a time.
